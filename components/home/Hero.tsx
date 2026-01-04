@@ -51,7 +51,7 @@ export default function Hero() {
               <HeroIllustration />
             </div>
             <p className="mt-3 text-xs text-brand-fg/70">
-              Illustration is brand-styled and replaceable with a custom SVG/PNG.
+
             </p>
           </div>
         </div>
